@@ -2,7 +2,7 @@
     "name": "Lab7_Starter",
     "short_name": "Menko Hornstein",
     "description": "A PWA for recipes",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#632a35",
